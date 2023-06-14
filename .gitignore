@@ -31,3 +31,4 @@ Thumbs.db
 
 # this application's specific files
 archive
+.env
